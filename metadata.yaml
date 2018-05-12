@@ -1,0 +1,35 @@
+_repo: Notes-on-Stable-Management-in-India-and-the-Colonies_32376
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nunn, Joshua A. (Joshua Arthur)
+    aliases:
+    - Nunn, Joshua Arthur
+    - Nunn, J. A. (Joshua Arthur)
+    birthdate: 1853
+    gutenberg_agent_id: '35813'
+    url: http://www.gutenberg.org/2009/agents/35813
+description: ''
+gutenberg_bookshelf:
+- Animals-Domestic
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horses -- India'
+- !lcsh 'Stables -- India -- Management'
+- !lcsh 'Stables -- Management'
+- !lcc 'SF'
+- !lcsh 'Horses'
+title: Notes on Stable Management in India and the Colonies
+url: http://www.gutenberg.org/ebooks/32376
