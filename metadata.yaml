@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '35813'
     url: http://www.gutenberg.org/2009/agents/35813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32376#Notes-on-Stable-Management-in-India-and-the-Colonies
 gutenberg_bookshelf:
 - Animals-Domestic
 - Animals-Wild-Mammals
